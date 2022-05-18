@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/Race Car Simulator/cmake-build-debug/CMakeFiles/Race_Car_Simulator.dir
+C:/Users/ASUS/CLionProjects/Race Car Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/Race Car Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
